@@ -1,0 +1,14 @@
+{
+  "name": "minggu1",
+  "version": "1.0.0",
+  "description": "Rifqie Muhammad, 1841720065",
+  "main": "Percobaan_pertama.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rifqie Muhammad",
+  "license": "Politeknik Negeri Malang (POLINEMA)",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
